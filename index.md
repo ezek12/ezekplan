@@ -1,3 +1,8 @@
+<head>
+    ...
+    <link rel="shortcut icon" type="image/png" href="favicon.png">
+  </head>
+  
 ## Welcome to ezekplan
 
 Where we discuss our plans to take over the world...
