@@ -1,8 +1,10 @@
 ## Welcome to ezekplan
 
-You can use the [editor on GitHub](https://github.com/ezek12/ezekplan/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Where we discuss our plans to take over the world...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+oh yeah, we make games too lol
+
+Whenever you add crap to this repository, GitHub Pages will start running [Jekyll](https://jekyllrb.com/) to make the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
