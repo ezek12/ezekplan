@@ -6,18 +6,10 @@
   
 ## Welcome to ezekplan
 
-Where we discuss our plans to take over the world...
+I suck at coding...
+while my dumb-ass figures out how to code, i shall tell you a story.
 
 ![ezekgithub](https://user-images.githubusercontent.com/84339630/119405788-70070280-bca7-11eb-9fe6-25e761ba27d4.png)
 
-oh yeah, we make games too lol
+### Chapter 1
 
-Right now I'm looking up tutorials, tips, hacks.
-
-Just trying to get used to my new workspace.
-
-### Trying to make a game
-
-this is currently empty, expect more things soon.
-
-![2021_02_12_0ga_Kleki](https://user-images.githubusercontent.com/84339630/119516323-4946db80-bd3c-11eb-8bbc-30153db67247.png)
