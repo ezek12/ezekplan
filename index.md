@@ -14,3 +14,5 @@ while my dumb-ass figures out how to code, i shall tell you a story.
 
 ### Chapter 1
 
+It was 7:AM in the morning, 
+
